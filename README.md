@@ -1,4 +1,4 @@
-# Python_cafe
+# Python Cafe
 ## 1. Introduction
 ### 1.1 Purpose
 ### 1.2 Intended Audience
