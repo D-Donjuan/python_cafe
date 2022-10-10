@@ -1,6 +1,7 @@
 # Python Cafe
 ## 1. Introduction
 ### 1.1 Purpose
+*Create a python program that will accept input to be stored in a Database, where it will be cleaned, queried and visualized.
 ### 1.2 Intended Audience
 ### 1.3 Intended Use
 ### 1.4 Scope
