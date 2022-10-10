@@ -8,7 +8,7 @@
 ## 2. Overall Description
 ### 2.1 User Needs
 ### 2.2 Assumptions and Dependencies
-### 3. System Features and Requirements
+## 3. System Features and Requirements
 ### 3.1 Functional Requirements
 ### 3.2 External Interface Requirements
 ### 3.3 System Features
