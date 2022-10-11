@@ -10,11 +10,11 @@
   </ul>
 ### 1.3 Intended Use
   <ul>
-    <li>This project is for anyone who wants coffee and does not want to wait in line to order.</br> The information will be useful for the marketing team to be able to predict future events.</li>
+    <li>This project is for anyone who wants coffee and does not want to wait in line to order.<br> The information will be useful for the marketing team to be able to predict future events.</li>
   </ul>
 ### 1.4 Scope
   <ul>
-    <li>Purpose of the project is for customer convience when ordering coffee.</br> The information that the application will collect will be useful for 
+    <li>Purpose of the project is for customer convience when ordering coffee.<br> The information that the application will collect will be useful for 
 		the developers, analyst and marketing team to help get insight on generated income from the online buyers as well as help with monthly projections.</li>
   </ul>
 ### 1.5 Definitions and Acronyms
