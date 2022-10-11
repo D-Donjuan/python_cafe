@@ -1,13 +1,10 @@
 # Python Cafe
+
 ## 1. Introduction
 ### 1.1 Purpose
-  <ul>
-    <li>Create a python program that will accept input to be stored in a database where it will be cleaned, queried and visualized.</li>
-  </ul>
+- Create a python program that will accept input to be stored in a database where it will be cleaned, queried and visualized.</li>
 ### 1.2 Intended Audience
-  <ul>
-   <li>This project is intended for Employers, developers, project managers, sales/marketing team and stakeholders. But for now, employers</li>
-  </ul>
+- This project is intended for Employers, developers, project managers, sales/marketing team and stakeholders. But for now, employers</li>
 ### 1.3 Intended Use
   <ul>
     <li>This project is for anyone who wants coffee and does not want to wait in line to order.<br> The information will be useful for the marketing team to be able to predict future events.</li>
