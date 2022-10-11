@@ -18,6 +18,16 @@
 ### 2.2 Assumptions and Dependencies
 ## 3. System Features and Requirements
 ### 3.1 Functional Requirements
+<!--Functional requirements are product features or functions that developers must implement to enable users to accomplish their tasks-->
+- Should be able to Select beverage type
+- Should be able to Select beverage flavor
+- Should be able to Select Size
+- Should be able to add multiple beverages
+- System should notify when beverage will be ready
 ### 3.2 External Interface Requirements
 ### 3.3 System Features
 ### 3.4 Nonfunctional Requirements
+<!-- how the system should perform -->
+- System accepts order
+- System accepts payment
+- System sends data to database
